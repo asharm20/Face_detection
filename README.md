@@ -34,3 +34,10 @@ This Kernel can detect changes in the horizontal direction.
 There are different type of kernels shown in the picture.
 
 ![](Images/5.png)
+
+
+The output Images for Face Detection using Haarcascade and Facial features like eyes. 
+
+![](Images/output1.jpg)
+
+The accuracy is good but there are some glitches since we can see the rectangular boxes which are basically used after the detection in the areas where there are no features.
