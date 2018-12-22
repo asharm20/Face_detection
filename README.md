@@ -21,7 +21,7 @@ Different Kernels have different applications and can detect shapes. Choosing a 
 
 ![](Images/2.png)
 
-DEtecting a nose might need a kernel able to detect horizontal change in pixel values and detecting a mouth can have kernel sensitive to pixel values in the horizontal direction. 
+Detecting a nose might need a kernel able to detect horizontal change in pixel values and detecting a mouth can have kernel sensitive to pixel values in the horizontal direction. 
 
 ![](Images/3.png)
 
